@@ -9,6 +9,9 @@
 			"товарная накладная" : [
 				"packing list"
 			],
+			"требование накладная" : [
+				"bill of materials"
+			],
 			"приходная накладная" : [
 				"receipt",
 				"receipt note"
